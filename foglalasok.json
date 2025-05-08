@@ -1,0 +1,38 @@
+[
+    {
+        "foglalas_id": 1,
+        "utas_nev": "Németh Péter",
+        "jaratszam": "B101",
+        "datum": "2025-09-08"
+    },
+    {
+        "foglalas_id": 2,
+        "utas_nev": "Kiss Eszter",
+        "jaratszam": "N202",
+        "datum": "2026-06-01"
+    },
+    {
+        "foglalas_id": 3,
+        "utas_nev": "Cérna Géza",
+        "jaratszam": "N303",
+        "datum": "2025-07-08"
+    },
+    {
+        "foglalas_id": 4,
+        "utas_nev": "Nagy Marianna",
+        "jaratszam": "N202",
+        "datum": "2025-08-08"
+    },
+    {
+        "foglalas_id": 5,
+        "utas_nev": "Horváth Anna",
+        "jaratszam": "N303",
+        "datum": "2025-11-28"
+    },
+    {
+        "foglalas_id": 6,
+        "utas_nev": "Erős Elemér",
+        "jaratszam": "B101",
+        "datum": "2025-12-31"
+    }
+]
